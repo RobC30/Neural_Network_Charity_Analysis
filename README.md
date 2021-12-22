@@ -65,4 +65,4 @@ Epochs - 30<br>
 __Accuracy: 72.73%__
 
 ## __Summary__
-After numerous attempts to increase our model's accuracy by increasing layers, changing activations & increasing/decreasing epochs, all attempts had little differences between accuracies. It is then not recommended to use deep-learning neural networks for this dataset. Using Random Forest classifier might yield better results.
+After numerous attempts to increase our model's accuracy by increasing layers, changing activations & increasing/decreasing epochs, all attempts had little differences between accuracies. It is then not recommended to use deep-learning neural networks for this dataset. Using __Random Forest classifier__ might yield better results.
